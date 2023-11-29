@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/xiaomi/zijin/device.mk)
 
 PRODUCT_DEVICE := zijin
-PRODUCT_NAME := omni_zijin
+PRODUCT_NAME := twrp_zijin
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := 2109119BC
 PRODUCT_MANUFACTURER := xiaomi
