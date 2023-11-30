@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_zijin.mk
+    $(LOCAL_DIR)/twrp_zijin.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_zijin-user \
-    omni_zijin-userdebug \
-    omni_zijin-eng
+    twrp_zijin-user \
+    twrp_zijin-userdebug \
+    twrp_zijin-eng
